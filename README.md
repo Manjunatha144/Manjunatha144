@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Manjunatha H 👋
 
-<!--
-**Manjunatha144/Manjunatha144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded and IoT Firmware Engineer focused on ESP32, FreeRTOS, MQTT, and embedded networking.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- ESP32 / ESP-IDF
+- FreeRTOS
+- MQTT
+- UART / SPI / I2C
+- TCP/IP Fundamentals
+- Embedded Debugging
+- WiFi Connectivity
+
+## Featured Project
+
+### Modular ESP32 MQTT Firmware
+
+ESP-IDF + FreeRTOS based telemetry firmware implementing:
+- Queue-driven producer-consumer architecture
+- MQTT publish/subscribe communication
+- WiFi reconnect handling
+- EventGroup synchronization
+- NVS persistent configuration
+- System health telemetry monitoring
+
+🔗 Repository:
+https://github.com/Manjunatha144/esp32-mqtt-telemetry-firmware
+
+## Current Focus
+
+- Embedded Firmware Engineering
+- IoT Device Communication
+- RTOS-based System Design
+- Embedded Networking
+
+## Connect
+
+📍 Bengaluru, India
