@@ -1,6 +1,8 @@
 # Hi, I'm Manjunatha H 👋
 
-Embedded and IoT Firmware Engineer focused on ESP32, FreeRTOS, MQTT, and embedded networking.
+Embedded & IoT Firmware Engineer focused on ESP32, FreeRTOS, MQTT, and embedded networking.
+
+---
 
 ## Skills
 
@@ -13,11 +15,14 @@ Embedded and IoT Firmware Engineer focused on ESP32, FreeRTOS, MQTT, and embedde
 - Embedded Debugging
 - WiFi Connectivity
 
-## Featured Project
+---
+
+## Featured Projects
 
 ### Modular ESP32 MQTT Firmware
 
 ESP-IDF + FreeRTOS based telemetry firmware implementing:
+
 - Queue-driven producer-consumer architecture
 - MQTT publish/subscribe communication
 - WiFi reconnect handling
@@ -25,8 +30,25 @@ ESP-IDF + FreeRTOS based telemetry firmware implementing:
 - NVS persistent configuration
 - System health telemetry monitoring
 
-🔗 Repository:
-https://github.com/Manjunatha144/esp32-mqtt-telemetry-firmware
+🔗 Repository:  
+https://github.com/Manjunatha144/modular-esp32-mqtt-firmware
+
+---
+
+### MQTT Telemetry Dashboard System
+
+Python and Node-RED based telemetry monitoring platform implementing MQTT dashboard visualization, ONLINE/OFFLINE device monitoring, and command/control workflows.
+
+- Real-time telemetry dashboard
+- MQTT command publishing
+- Node-RED monitoring system
+- Python telemetry simulator
+- Device status monitoring
+
+🔗 Repository:  
+https://github.com/Manjunatha144/mqtt-telemetry-dashboard-system
+
+---
 
 ## Current Focus
 
@@ -34,6 +56,8 @@ https://github.com/Manjunatha144/esp32-mqtt-telemetry-firmware
 - IoT Device Communication
 - RTOS-based System Design
 - Embedded Networking
+
+---
 
 ## Connect
 
