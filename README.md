@@ -11,12 +11,10 @@ Embedded & IoT Firmware Developer | ESP32 | FreeRTOS | MQTT | ESP-IDF | Embedded
 - ESP32 / ESP-IDF
 - FreeRTOS
 - MQTT
-- UART / SPI / I2C / CAN / RS232
+- UART / SPI / I2C / CAN
 - TCP/IP Fundamentals
 - Wi-Fi Networking
 - Producer-Consumer Architecture
-- Event-Driven Systems
-- Memory Management
 - Embedded Debugging
 - Git / GitHub
 - Node-RED
@@ -62,4 +60,3 @@ Python and Node-RED based telemetry monitoring platform implementing MQTT dashbo
 [linkedin.com/in/manjunatha144](https://www.linkedin.com/in/manjunatha144/)
 
 📍 Bengaluru, India
-
