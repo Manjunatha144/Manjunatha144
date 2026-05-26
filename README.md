@@ -37,7 +37,7 @@ ESP-IDF + FreeRTOS based telemetry firmware implementing:
 - System health telemetry monitoring
 
 🔗 Repository:  
-:contentReference[oaicite:0]{index=0}
+[modular-esp32-mqtt-firmware](https://github.com/Manjunatha144/modular-esp32-mqtt-firmware)
 
 ---
 
@@ -52,13 +52,14 @@ Python and Node-RED based telemetry monitoring platform implementing MQTT dashbo
 - Device status monitoring
 
 🔗 Repository:  
-:contentReference[oaicite:1]{index=1}
+[mqtt-telemetry-dashboard-system](https://github.com/Manjunatha144/mqtt-telemetry-dashboard-system)
 
 ---
 
 ## Connect
 
+🔗 LinkedIn:  
+[linkedin.com/in/manjunatha144](https://www.linkedin.com/in/manjunatha144/)
+
 📍 Bengaluru, India
 
-🔗 LinkedIn:  
-:contentReference[oaicite:2]{index=2}
