@@ -1,6 +1,6 @@
 # Hi, I'm Manjunatha H 👋
 
-Embedded & IoT Firmware Developer | ESP32 | FreeRTOS | MQTT | ESP-IDF | Embedded C
+Embedded & IoT Firmware Engineer | ESP32 | FreeRTOS | MQTT | ESP-IDF | Embedded C
 
 ---
 
